@@ -1,0 +1,42 @@
+.clock
+{
+    background-color: aqua;
+    height: 00px;
+    width: 1000px;
+    display: flex;
+}
+.a
+{
+    height: 200px;
+    width: 200px;
+    background-color: beige;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-top: 50px;
+    color:black;
+    background-size: cover;
+    background-image:url('../image/7.jpg');
+}
+.b
+{
+    height: 200px;
+    width: 200px;
+    background-color: beige;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-top: 50px;
+    color: brown;
+    background-size: cover;
+    background-image:url('../image/3.jpg');
+}
+.c{
+    height: 200px;
+    width: 200px;
+    color: blue;
+    background-color: beige;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-top: 50px;
+    background-size: cover;
+    background-image:url('../image/2.jpg');
+}
